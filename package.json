@@ -1,20 +1,20 @@
 {
-  "name": "tiny-circular-progress-bar",
+  "name": "tiny-circular-progressbar",
   "version": "1.0.0",
-  "description": "The tiniest circular progress bar",
+  "description": "The tiniest circular progress bar.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evzonic/tiny-circular-progress-bar.git"
+    "url": "git+https://github.com/evzonic/tiny-circular-progressbar.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/evzonic/tiny-circular-progress-bar/issues"
+    "url": "https://github.com/evzonic/tiny-circular-progressbar/issues"
   },
-  "homepage": "https://github.com/evzonic/tiny-circular-progress-bar#readme"
+  "homepage": "https://github.com/evzonic/tiny-circular-progressbar#readme"
 }
