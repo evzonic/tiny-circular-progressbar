@@ -1,6 +1,6 @@
 {
   "name": "tiny-circular-progressbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The tiniest circular progress bar.",
   "main": "index.js",
   "scripts": {
