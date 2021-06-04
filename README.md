@@ -2,8 +2,8 @@
 
 The tiniest circular progress bar
 
-![npm (scoped)](https://img.shields.io/npm/v/@evzonic/tiny-circular-progressbar)
-![npm bundle size](https://img.shields.io/bundlephobia/min/@evzonic/tiny-circular-progressbar)
+![npm](https://img.shields.io/npm/v/tiny-circular-progressbar)
+![npm bundle size](https://img.shields.io/bundlephobia/min/tiny-circular-progressbar)
 
 Creates a tiny circular progress bar.
 
